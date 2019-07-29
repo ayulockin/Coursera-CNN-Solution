@@ -1,2 +1,9 @@
 # Coursera-CNN-Solution
-Contains solution to the programming assignments of coursera's convolution neural network. This can be used as a guide or helper. DONT USE THIS TO PASS YOUR ASSIGNMENT, ELSE YOU WONT LEARN ANYTHING! Enjoy ^_^
+
+Contain solutions to the programming assignments for Convolutional Neural Networks by deeplearning.ai on Coursera. 
+
+This can be used as a guide. 
+
+DONT USE THIS TO PASS YOUR ASSIGNMENT. YOU WONT LEARN ANYTHING THIS WAY
+
+Enjoy ^_^
